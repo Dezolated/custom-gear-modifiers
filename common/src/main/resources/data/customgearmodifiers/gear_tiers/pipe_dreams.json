@@ -1,0 +1,23 @@
+{
+    "tier": 4,
+    "display_name": "Pipe Dreams",
+    "color": "#A9712F",
+    "stat_multiplier": 2.1,
+    "substats": {
+        "recoil_control": {
+            "label": "Recoil Control",
+            "min": 0.08,
+            "max": 0.2
+        },
+        "fire_rate": {
+            "label": "Fire Rate",
+            "min": 0.05,
+            "max": 0.14
+        },
+        "reload_speed": {
+            "label": "Reload Speed",
+            "min": 0.08,
+            "max": 0.18
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "tier": 8,
+    "display_name": "Smiler",
+    "color": "#8BE04A",
+    "stat_multiplier": 4.5,
+    "substats": {
+        "crit_chance": {
+            "label": "Crit Chance",
+            "min": 0.1,
+            "max": 0.26
+        },
+        "crit_damage": {
+            "label": "Crit Damage",
+            "min": 0.2,
+            "max": 0.6
+        },
+        "accuracy": {
+            "label": "Accuracy",
+            "min": 0.1,
+            "max": 0.24
+        },
+        "fire_rate": {
+            "label": "Fire Rate",
+            "min": 0.15,
+            "max": 0.32
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "tier": 3,
+    "display_name": "Poolrooms",
+    "color": "#4FB0A5",
+    "stat_multiplier": 1.7,
+    "substats": {
+        "reload_speed": {
+            "label": "Reload Speed",
+            "min": 0.06,
+            "max": 0.14
+        },
+        "accuracy": {
+            "label": "Accuracy",
+            "min": 0.04,
+            "max": 0.1
+        },
+        "ammo_efficiency": {
+            "label": "Ammo Efficiency",
+            "min": 0.05,
+            "max": 0.12
+        }
+    }
+}

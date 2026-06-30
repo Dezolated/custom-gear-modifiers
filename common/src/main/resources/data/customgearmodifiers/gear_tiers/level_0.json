@@ -1,0 +1,13 @@
+{
+    "tier": 1,
+    "display_name": "Level 0",
+    "color": "#C9B458",
+    "stat_multiplier": 1.0,
+    "substats": {
+        "reload_speed": {
+            "label": "Reload Speed",
+            "min": 0.02,
+            "max": 0.06
+        }
+    }
+}

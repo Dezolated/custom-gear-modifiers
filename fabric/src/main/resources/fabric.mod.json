@@ -1,0 +1,37 @@
+{
+    "schemaVersion": 1,
+    "id": "customgearmodifiers",
+    "version": "${version}",
+    "name": "${mod_name}",
+    "description": "${description}",
+    "authors": [
+        "${mod_author}"
+    ],
+    "contact": {
+        "homepage": "https://www.curseforge.com/minecraft/mc-mods/custom-gear-modifiers",
+        "sources": "https://github.com/Dezolated/custom-gear-modifiers",
+        "issues": "https://github.com/Dezolated/custom-gear-modifiers/issues"
+    },
+    "license": "${license}",
+    "icon": "icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "com.dezolated.customgearmodifiers.CustomGearModifiers"
+        ],
+        "client": [
+            "com.dezolated.customgearmodifiers.client.CustomGearModifiersClient"
+        ]
+    },
+    "mixins": [
+        "${mod_id}.mixins.json",
+        "${mod_id}.fabric.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=0.14",
+        "fabric": "*",
+        "minecraft": "${minecraft_version}",
+        "java": ">=17"
+    }
+}
+  
