@@ -112,4 +112,4 @@ Output jars: `fabric/build/libs/` and `forge/build/libs/`.
 
 ## License
 
-CC0-1.0 (see `LICENSE`).
+MIT (see `LICENSE`).
