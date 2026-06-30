@@ -1,0 +1,15 @@
+{
+    "tier": 1,
+    "display_name": "Common",
+    "color": "#FFFFFF",
+    "stat_multiplier": 1.0,
+    "visualize": true,
+    "loot_beam": true,
+    "substats": {
+        "attack_damage": {
+            "label": "Attack Damage",
+            "min": 0.02,
+            "max": 0.05
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "tier": 4,
+    "display_name": "Epic",
+    "color": "#A335EE",
+    "stat_multiplier": 2.2,
+    "visualize": true,
+    "loot_beam": true,
+    "substats": {
+        "attack_damage": {
+            "label": "Attack Damage",
+            "min": 0.14,
+            "max": 0.28
+        },
+        "crit_chance": {
+            "label": "Crit Chance",
+            "min": 0.08,
+            "max": 0.16
+        },
+        "attack_speed": {
+            "label": "Attack Speed",
+            "min": 0.06,
+            "max": 0.14
+        },
+        "crit_damage": {
+            "label": "Crit Damage",
+            "min": 0.15,
+            "max": 0.35
+        }
+    }
+}

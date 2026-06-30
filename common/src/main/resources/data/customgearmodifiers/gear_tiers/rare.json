@@ -1,0 +1,25 @@
+{
+    "tier": 3,
+    "display_name": "Rare",
+    "color": "#0070DD",
+    "stat_multiplier": 1.7,
+    "visualize": true,
+    "loot_beam": true,
+    "substats": {
+        "attack_damage": {
+            "label": "Attack Damage",
+            "min": 0.08,
+            "max": 0.16
+        },
+        "crit_chance": {
+            "label": "Crit Chance",
+            "min": 0.04,
+            "max": 0.1
+        },
+        "attack_speed": {
+            "label": "Attack Speed",
+            "min": 0.03,
+            "max": 0.08
+        }
+    }
+}

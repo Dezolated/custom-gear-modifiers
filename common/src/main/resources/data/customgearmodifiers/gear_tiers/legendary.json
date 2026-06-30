@@ -1,0 +1,35 @@
+{
+    "tier": 5,
+    "display_name": "Legendary",
+    "color": "#FF8000",
+    "stat_multiplier": 3.0,
+    "visualize": true,
+    "loot_beam": true,
+    "substats": {
+        "attack_damage": {
+            "label": "Attack Damage",
+            "min": 0.25,
+            "max": 0.45
+        },
+        "crit_chance": {
+            "label": "Crit Chance",
+            "min": 0.12,
+            "max": 0.24
+        },
+        "attack_speed": {
+            "label": "Attack Speed",
+            "min": 0.1,
+            "max": 0.2
+        },
+        "crit_damage": {
+            "label": "Crit Damage",
+            "min": 0.3,
+            "max": 0.6
+        },
+        "lifesteal": {
+            "label": "Lifesteal",
+            "min": 0.08,
+            "max": 0.18
+        }
+    }
+}
